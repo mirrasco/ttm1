@@ -144,7 +144,7 @@
 
 		var date = new Date();
 		 
-		var url = '//main.com';
+		var url = '//analytics-tracker.com';
 		
 		var ts = '&ts=' + btoa(date.getMilliseconds());
 		
